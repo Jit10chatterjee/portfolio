@@ -845,6 +845,10 @@ textarea:focus {
     .footer-box {
         padding: 0.5rem 0;
     }
+
+    .sticky-bar {
+        display: none;
+    }
 }
 
 .nav-active {
