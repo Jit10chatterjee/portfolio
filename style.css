@@ -9,6 +9,10 @@
     /* scroll-behavior: smooth; */
 }
 
+html {
+    font-size: 80%;
+}
+
 section {
     background: linear-gradient(#eaf5ff, #d4fdff);
     transform: translateX(200%);
